@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+form{
+  background-color: aqua;
+  
+  padding-left: 50px;
+  padding-bottom: 20px;
+
+}
+h1{
+ text-align: center;
+ color: blueviolet;
+ background-color: aqua;
+ background-size: 50;
+}
+h2{
+  font-size: large;
+  color: blue;
+  
+}
+input{
+  width: 10%;
+  padding: 5px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+label{
+  font-size: large;
+  color: red;
+  padding-left: 0px;
+}
+.radio-button{
+  padding-top: 30px;
+  padding-right: 0px;
+  margin-top: 10px;
+  font-size: large;
+}
+button{
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
