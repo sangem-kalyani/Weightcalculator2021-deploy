@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/css/main.c0615823.css",
-    "main.js": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/js/main.b8723d3c.js",
-    "static/js/593.bf4e396c.chunk.js": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/js/593.bf4e396c.chunk.js",
-    "index.html": "/sangem-kalyani/Weightcalculator2021-deploy.git/index.html",
-    "main.c0615823.css.map": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/css/main.c0615823.css.map",
-    "main.b8723d3c.js.map": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/js/main.b8723d3c.js.map",
-    "593.bf4e396c.chunk.js.map": "/sangem-kalyani/Weightcalculator2021-deploy.git/static/js/593.bf4e396c.chunk.js.map"
+    "main.css": "/Weightcalculator2021-deploy/static/css/main.c0615823.css",
+    "main.js": "/Weightcalculator2021-deploy/static/js/main.d8f4afcf.js",
+    "static/js/593.bf4e396c.chunk.js": "/Weightcalculator2021-deploy/static/js/593.bf4e396c.chunk.js",
+    "index.html": "/Weightcalculator2021-deploy/index.html",
+    "main.c0615823.css.map": "/Weightcalculator2021-deploy/static/css/main.c0615823.css.map",
+    "main.d8f4afcf.js.map": "/Weightcalculator2021-deploy/static/js/main.d8f4afcf.js.map",
+    "593.bf4e396c.chunk.js.map": "/Weightcalculator2021-deploy/static/js/593.bf4e396c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0615823.css",
-    "static/js/main.b8723d3c.js"
+    "static/js/main.d8f4afcf.js"
   ]
 }
